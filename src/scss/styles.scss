@@ -1,0 +1,14 @@
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+
+.menu {
+    background-color: black !important;
+    // position: fixed;
+    // width: 100%;
+    // z-index: 1000; 
+    
+}
+
+.menu-item {
+    color: white !important;
+}
